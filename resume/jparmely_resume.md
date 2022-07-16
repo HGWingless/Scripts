@@ -19,7 +19,6 @@ Experience
 ----------
 
 2021-Present
-
 :	**Server Admin. TA, Northshore School District, Bothell, WA.**
 
 * Implemented security policy to include risky user review and remediation to identify potential user account compromise using **Azure** monitoring tools, **EDR** and **SIEM** alert auditing, improving overall organizational security posture.
